@@ -1,0 +1,26 @@
+
+/*  Put your CSS Here */
+div {    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 27px;
+    overflow: hidden;
+}
+
+p {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+h2 {
+    text-align: center;
+    width: 95%;
+    padding: 10px;
+}
